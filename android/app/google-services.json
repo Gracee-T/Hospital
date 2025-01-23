@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214429475023",
+    "project_id": "wendy-7987c",
+    "storage_bucket": "wendy-7987c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214429475023:android:223048c1fbf31d49bbd7ba",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ96_Tcu2mscsPAD_IuNizxf9FHrmGOKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
